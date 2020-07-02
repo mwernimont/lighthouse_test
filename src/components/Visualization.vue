@@ -11,7 +11,7 @@
         props: {
             title: {
                 type: String,
-                default: 'Change your title in App.vue'
+                default: 'Add your title in App.vue'
             }
         }
     }
