@@ -27,7 +27,7 @@
     "qs": "^6.9.4",
     "send": "^0.17.1",
     "uswds": "^2.7.1",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-analytics": "^5.22.1",
     "vue-browser-detect-plugin": "^0.1.13",
     "vue-mapbox": "^0.4.1",
